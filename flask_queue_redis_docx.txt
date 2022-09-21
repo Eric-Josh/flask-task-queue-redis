@@ -1,0 +1,9 @@
+Reference video: https://www.youtube.com/watch?v=3muR5gB8x2o
+
+python -m venv venv
+
+venv\Scripts\activate
+
+pip install redis flask rq
+
+/mnt/c/Users/"BUYPC COMPUTER"/Documents/DevProjects/flask-task-queue-redis
